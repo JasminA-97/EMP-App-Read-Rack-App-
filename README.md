@@ -1,3 +1,3 @@
-#To run
-#Front-end >> npm runb dev 
-#Back-end >> npx json-server db.json
+# To run \n
+# Front-end >> npm runb dev \n
+# Back-end >> npx json-server db.json
